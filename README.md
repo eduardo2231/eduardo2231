@@ -23,14 +23,4 @@ My LinkedIn: [LinkedIn](www.linkedin.com/in/eduardo-bonometti-30572a34a)
 
 
 
-
- [Git Básico](#git-básico)
-2. [Navegação e Visualização](#navegação-e-visualização)
-3. [Desfazendo Mudanças](#desfazendo-mudanças)
-4. [Branches](#branches)
-5. [Merge e Rebase](#merge-e-rebase)
-6. [Stash](#stash)
-7. [Cherry Pick](#cherry-pick)
-8. [Buscando Histórico](#buscando-histórico)
-9. [GitHub CLI](#github-cli)
-10. [Aliases Úteis](#aliases-úteis)
+[Navegação e Visualização](#navegação-e-visualização)
