@@ -7,9 +7,6 @@ My goal is to grow as a professional in the fields of Data Science and Machine L
 
 
 
-# 🔗 Contact
-My LinkedIn: [LinkedIn](www.linkedin.com/in/eduardo-bonometti-30572a34a)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-0078D4?style=for-the-badge&logo=microsoft-excel&logoColor=white)
