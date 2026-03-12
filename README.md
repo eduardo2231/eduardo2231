@@ -3,7 +3,7 @@
 I am a Python developer with experience in data analysis and SQL.
 My goal is to grow as a professional in the fields of Data Science and Machine Learning, developing data-driven solutions that support decision making and innovation.
 
-# ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardo2231&show_icons=true&theme=radical)
+# ![GitHub Contribution Graph](https://ghchart.rshah.org/eduardo2231)
 
 
 
