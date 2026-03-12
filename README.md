@@ -1,16 +1,17 @@
-## Hi there 👋
+# Eduardo Bonometti
+# 🎯 About Me
+I am a Python developer with experience in data analysis and SQL.
+My goal is to grow as a professional in the fields of Data Science and Machine Learning, developing data-driven solutions that support decision making and innovation.
 
-<!--
-**eduardo2231/eduardo2231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardo2231&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# 🔗 Contact
+My LinkedIn: [LinkedIn](www.linkedin.com/in/eduardo-bonometti-30572a34a)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-0078D4?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
