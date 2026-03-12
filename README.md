@@ -4,6 +4,7 @@ I am a Python developer with experience in data analysis and SQL, aiming to grow
 I focus on delivering data-driven solutions that enhance decision-making and drive innovation.
 
 ## GitHub Activity
+# ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardo2231&show_icons=true&theme=radical)
 # ![GitHub Contribution Graph](https://ghchart.rshah.org/eduardo2231)
 
 
