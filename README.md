@@ -1,3 +1,5 @@
+![Header](./your-header-image-name.png)
+
 # Eduardo Bonometti
 ## 🎯 About Me
 I am a Python developer with experience in data analysis and SQL, aiming to grow professionally in Data Science and Machine Learning. 
