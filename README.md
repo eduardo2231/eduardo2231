@@ -1,5 +1,5 @@
 # Eduardo Bonometti
-# 🎯 About Me
+## About Me
 I am a Python developer with experience in data analysis and SQL.
 My goal is to grow as a professional in the fields of Data Science and Machine Learning, developing data-driven solutions that support decision making and innovation.
 
