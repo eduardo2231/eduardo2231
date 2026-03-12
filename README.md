@@ -1,6 +1,4 @@
 ![Header](./hearder.png)
-
-# Eduardo Bonometti
 ## 🎯 About Me
 I am a Python developer with experience in data analysis and SQL, aiming to grow professionally in Data Science and Machine Learning. 
 I focus on delivering data-driven solutions that enhance decision-making and drive innovation.
