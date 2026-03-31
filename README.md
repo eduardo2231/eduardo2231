@@ -47,7 +47,7 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
 
 
 <p align="center">
-  Whether you want to talk about data, share insights, or collaborate on projects, my inbox is open.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6C757D;ADB5BD;CED4DA&center=true&vCenter=true&width=700&lines=Turning+data+into+decisions.;Building+insights+that+drive+impact.;Open+to+collaboration." />
 </p>
 
 <p align="center">
