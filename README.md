@@ -55,37 +55,43 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
 
 <!-- ======================= PROJECTS ======================= -->
 <details>
-  <summary>🚀 Projects (click to expand)</summary>
-
+  <summary>🚀 Projects (click to fetch)</summary>
   <br>
 
-  <!-- Tabela com três cards de projetos, lado a lado, mostrando nome, descrição e botão para GitHub -->
-  <table align="center" cellspacing="15">
-    <tr>
-      <td align="center" style="background:#212529; color:white; padding:15px; border-radius:10px; width:250px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
-        <b>Anomalous Behavior Detection</b>
-        <p style="font-size:12px; color:#adb5bd;">Detects unusual patterns in data to identify anomalies and potential risks.</p>
-        <a href="https://github.com/eduardo2231/Anomalous-Behavior-Detection-System">
-          <img src="https://img.shields.io/badge/View_Project-495057?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </td>
-      <td align="center" style="background:#343a40; color:white; padding:15px; border-radius:10px; width:250px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
-        <b>Intelligent Recommendation</b>
-        <p style="font-size:12px; color:#ced4da;">Recommends personalized content based on user behavior and data patterns.</p>
-        <a href="https://github.com/eduardo2231/Intelligent-Recommendation-System">
-          <img src="https://img.shields.io/badge/View_Project-6c757d?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </td>
-      <td align="center" style="background:#495057; color:white; padding:15px; border-radius:10px; width:250px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
-        <b>Performance Monitoring</b>
-        <p style="font-size:12px; color:#e9ecef;">Tracks and analyzes system performance to optimize efficiency and reliability.</p>
-        <a href="https://github.com/eduardo2231/Performance-Monitoring-System">
-          <img src="https://img.shields.io/badge/View_Project-343a40?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+    <!-- Card 1 -->
+    <div style="background:#212529; color:white; padding:15px; border-radius:10px; width:250px; text-align:center; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
+      <b>Anomalous Behavior Detection</b>
+      <p style="font-size:12px; color:#adb5bd;">
+        Detects unusual patterns in data to identify anomalies and potential risks.
+      </p>
+      <a href="https://github.com/eduardo2231/Anomalous-Behavior-Detection-System" target="_blank">
+        <img src="https://img.shields.io/badge/View_Project-495057?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </div>
 
+    <!-- Card 2 -->
+    <div style="background:#343a40; color:white; padding:15px; border-radius:10px; width:250px; text-align:center; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
+      <b>Intelligent Recommendation</b>
+      <p style="font-size:12px; color:#ced4da;">
+        Recommends personalized content based on user behavior and data patterns.
+      </p>
+      <a href="https://github.com/eduardo2231/Intelligent-Recommendation-System" target="_blank">
+        <img src="https://img.shields.io/badge/View_Project-6c757d?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </div>
+
+    <!-- Card 3 -->
+    <div style="background:#495057; color:white; padding:15px; border-radius:10px; width:250px; text-align:center; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
+      <b>Performance Monitoring</b>
+      <p style="font-size:12px; color:#e9ecef;">
+        Tracks and analyzes system performance to optimize efficiency and reliability.
+      </p>
+      <a href="https://github.com/eduardo2231/Performance-Monitoring-System" target="_blank">
+        <img src="https://img.shields.io/badge/View_Project-343a40?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </div>
+  </div>
 </details>
 
 <!-- ======================= CALL TO ACTION ======================= -->
