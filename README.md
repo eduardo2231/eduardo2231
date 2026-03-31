@@ -13,7 +13,7 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
 
 <!-- ======================= TECH STACK ======================= -->
 <details>
-  <summary>🛠️ Tech Stack & Tools (click to expand)</summary>
+  <summary>🛠️ Tech Stack & Tools (click to toggle)</summary>
 
 <br>
 
@@ -37,7 +37,7 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
 
 <!-- ======================= GITHUB ACTIVITY ======================= -->
 <details>
-  <summary>🧰 GitHub Activity (click to expand)</summary>
+  <summary>🧰 GitHub Activity (click to toggle)</summary>
 
 <br>
 
