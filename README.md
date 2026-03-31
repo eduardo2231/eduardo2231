@@ -8,7 +8,10 @@
 I am a Python developer with experience in data analysis and SQL, aiming to grow professionally in Data Science and Machine Learning. 
 I focus on delivering data-driven solutions that enhance decision-making and drive innovation.
 
-### 🛠️ Tech Stack & Tools
+<details>
+  <summary>🛠️ Tech Stack & Tools (click to expand)</summary>
+
+<br>
 
 **Core:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white) ![Statistics](https://img.shields.io/badge/Statistics-8E44AD?style=for-the-badge)
@@ -25,6 +28,7 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
 **Workflow:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+</details>
 <details>
   <summary>🧰 GitHub Activity (click to expand)</summary>
 
