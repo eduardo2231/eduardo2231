@@ -10,7 +10,7 @@
   <a href="http://www.pawdig.com">
     <img src="https://img.shields.io/badge/🐾_Project-6c757d?style=for-the-badge&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/067426143">
+  <a href="www.linkedin.com/in/eduardo-bonometti-30572a34a">
     <img src="https://img.shields.io/badge/LinkedIn-6c757d?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/eduardo2231">
