@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gray&height=300&section=header&text=Eduardo%20Bonometti&fontSize=55&fontColor=ffffff&animation=twinkling&desc=Data%20Analyst%20📊&descSize=25&descColor=cccccc&descAlignY=75" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gray&height=250&section=header&text=Eduardo%20Bonometti&fontSize=55&fontColor=ffffff&animation=twinkling&desc=Data%20Analyst%20📊&descSize=25&descColor=cccccc&descAlignY=70" width="100%" />
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=AAAAAA;888888;CCCCCC&center=true&vCenter=true&width=800&lines=Data+driven+decisions+start+with+curiosity.;Transforming+data+into+real+insights.;Consistency+beats+talent+in+the+long+run." />
 </p>
