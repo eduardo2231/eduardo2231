@@ -26,13 +26,13 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🧰 GitHub Activity
-# ![GitHub Contribution Graph](https://ghchart.rshah.org/eduardo2231)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardo2231&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardo2231&theme=tokyonight&hide_border=true&background=0d1117" height="150"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardo2231&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
+</p>
 
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-0078D4?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
