@@ -45,3 +45,7 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
     <img src="https://img.shields.io/badge/LinkedIn-Connect-6c757d?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gray&height=100&section=footer" width="100%" />
+</p>
