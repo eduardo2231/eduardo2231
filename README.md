@@ -10,27 +10,20 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages & Core:**  
-![Python](https://img.shields.io/badge/python-6c757d?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-6c757d?style=for-the-badge&logo=database&logoColor=white)
+**Core:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white) ![Statistics](https://img.shields.io/badge/Statistics-8E44AD?style=for-the-badge)
 
-**Data Analysis & Libraries:**  
-![Pandas](https://img.shields.io/badge/pandas-6c757d?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/numpy-6c757d?style=for-the-badge&logo=numpy&logoColor=white)  
-![Statistics](https://img.shields.io/badge/statistics-6c757d?style=for-the-badge)
+**Data Analysis:**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 **Databases:**  
-![PostgreSQL](https://img.shields.io/badge/postgresql-6c757d?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-6c757d?style=for-the-badge&logo=mysql&logoColor=white)  
-![SQLite](https://img.shields.io/badge/sqlite-6c757d?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Visualization & Tools (essencial pra crescer):**  
-![Matplotlib](https://img.shields.io/badge/matplotlib-6c757d?style=for-the-badge)  
-![Seaborn](https://img.shields.io/badge/seaborn-6c757d?style=for-the-badge)  
-![Jupyter](https://img.shields.io/badge/jupyter-6c757d?style=for-the-badge&logo=jupyter&logoColor=white)
+**Visualization:**  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge) ![Seaborn](https://img.shields.io/badge/Seaborn-2E86C1?style=for-the-badge) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**Version Control & Workflow:**  
-![Git](https://img.shields.io/badge/git-6c757d?style=for-the-badge&logo=git&logoColor=white)
+**Workflow:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🧰 GitHub Activity
 # ![GitHub Contribution Graph](https://ghchart.rshah.org/eduardo2231)
