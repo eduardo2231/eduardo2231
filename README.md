@@ -44,15 +44,7 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
   <a href="mailto:seuemail@email.com">
     <img src="https://img.shields.io/badge/Contact_Me-Get_In_Touch-495057?style=for-the-badge&logo=gmail&logoColor=white&labelColor=343a40" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="www.linkedin.com/in/eduardo-bonometti-30572a34a">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-6c757d?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eduardo2231&color=6c757d&style=flat-square&label=PROFILE+VIEWS&bg_color=212529&label_color=343a40" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gray&height=100&section=footer" width="100%" />
 </p>
