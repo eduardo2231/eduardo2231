@@ -1,4 +1,3 @@
-![Header](./hearder.png)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gray&height=300&section=header&text=Hi,%20I%20am%20Eduardo%20👋&fontSize=55&fontColor=ffffff&animation=twinkling&desc=Data%20Analyst%20📊&descSize=25&descColor=cccccc&descAlignY=75" width="100%" />
   
