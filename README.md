@@ -45,23 +45,35 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
 
 </details>
 
-## 🚀 Projects
-
 <details>
-  <summary>Click to view my projects</summary>
+  <summary>🚀 Projects (click to expand)</summary>
 
   <br>
 
   <p align="center">
+    
+    <b>Anomalous Behavior Detection System</b><br>
+    Detects unusual patterns in data to identify anomalies and potential risks.<br><br>
     <a href="https://github.com/eduardo2231/Anomalous-Behavior-Detection-System">
-      <img src="https://img.shields.io/badge/Anomaly_Detection-System-495057?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/View_Project-495057?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
+
+    <br><br><br>
+
+    <b>Intelligent Recommendation System</b><br>
+    Recommends personalized content based on user behavior and data patterns.<br><br>
     <a href="https://github.com/eduardo2231/Intelligent-Recommendation-System">
-      <img src="https://img.shields.io/badge/Recommendation-System-6c757d?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/View_Project-6c757d?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
+
+    <br><br><br>
+
+    <b>Performance Monitoring System</b><br>
+    Tracks and analyzes system performance to optimize efficiency and reliability.<br><br>
     <a href="https://github.com/eduardo2231/Performance-Monitoring-System">
-      <img src="https://img.shields.io/badge/Performance-Monitoring-343a40?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/View_Project-343a40?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
+
   </p>
 
 </details>
