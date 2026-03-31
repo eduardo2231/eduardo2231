@@ -71,7 +71,7 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
         </a>
       </td>
 
-      <!-- Card 2: Intelligent Recommendation -->
+  <!-- Card 2: Intelligent Recommendation -->
   <td align="center" style="background:#1F618D; color:white; padding:15px; border-radius:10px; width:250px; box-shadow: 0 6px 8px rgba(0,0,0,0.4);">
     <b>Intelligent Recommendation</b>
     <p style="font-size:12px; color:#D6DBDF;">
@@ -82,7 +82,7 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
     </a>
   </td>
   
-      <!-- Card 3: Performance Monitoring -->
+  <!-- Card 3: Performance Monitoring -->
   <td align="center" style="background:#117A65; color:white; padding:15px; border-radius:10px; width:250px; box-shadow: 0 6px 8px rgba(0,0,0,0.4);">
     <b>Performance Monitoring</b>
     <p style="font-size:12px; color:#D6DBDF;">
