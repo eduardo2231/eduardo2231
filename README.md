@@ -45,6 +45,27 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
 
 </details>
 
+## 🚀 Projects
+
+<details>
+  <summary>Click to view my projects</summary>
+
+  <br>
+
+  <p align="center">
+    <a href="https://github.com/eduardo2231/Anomalous-Behavior-Detection-System">
+      <img src="https://img.shields.io/badge/Anomaly_Detection-System-495057?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://github.com/eduardo2231/Intelligent-Recommendation-System">
+      <img src="https://img.shields.io/badge/Recommendation-System-6c757d?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://github.com/eduardo2231/Performance-Monitoring-System">
+      <img src="https://img.shields.io/badge/Performance-Monitoring-343a40?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+
+</details>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6C757D;ADB5BD;CED4DA&center=true&vCenter=true&width=700&lines=Turning+data+into+decisions.;Building+insights+that+drive+impact.;Open+to+collaboration." />
