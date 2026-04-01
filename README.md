@@ -105,15 +105,17 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
 <p align="center">
   <!-- Texto com efeito de typing -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6C757D;ADB5BD;CED4DA&center=true&vCenter=true&width=700&lines=Turning+data+into+decisions.;Building+insights+that+drive+impact.;Open+to+collaboration." />
-  <img src="https://img.shields.io/github/last-commit/eduardo2231/Anomalous-Behavior-Detection-System?style=flat-square&logo=github" alt="Last Commit"/>
-  <img src="https://img.shields.io/github/forks/eduardo2231/Anomalous-Behavior-Detection-System?style=flat-square&logo=github" alt="Forks"/>
-  <img src="https://img.shields.io/github/stars/eduardo2231/Anomalous-Behavior-Detection-System?style=flat-square&logo=github" alt="Stars"/>
 </p>
+
+
 
 <!-- LINKEDIN -->
 <p align="center">
   <a href="https://www.linkedin.com/in/eduardo-bonometti-30572a34a">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-6c757d?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/github/last-commit/eduardo2231/Anomalous-Behavior-Detection-System?style=flat-square&logo=github" alt="Last Commit"/>
+    <img src="https://img.shields.io/github/forks/eduardo2231/Anomalous-Behavior-Detection-System?style=flat-square&logo=github" alt="Forks"/>
+    <img src="https://img.shields.io/github/stars/eduardo2231/Anomalous-Behavior-Detection-System?style=flat-square&logo=github" alt="Stars"/>
   </a>
 </p>
 
