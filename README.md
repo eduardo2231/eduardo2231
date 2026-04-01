@@ -43,7 +43,7 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
 
 <!-- Estatísticas do GitHub (commits, streak e contributions graph) -->
 <p align="center">
-  <img src="https://ghchart.rshah.org/eduardo2231" alt="GitHub Chart" width="600" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardo2231&theme=radical" alt="GitHub Profile Summary" width="500"/>
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=eduardo2231&theme=tokyonight&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" 
     height="150" 
