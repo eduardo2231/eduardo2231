@@ -46,7 +46,6 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
   <img 
     src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eduardo2231&theme=aura&utcOffset=8" 
     alt="Productive Time" 
-    height="150"
   />
 
   <img 
