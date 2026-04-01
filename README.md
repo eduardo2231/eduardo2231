@@ -48,7 +48,7 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardo2231&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardo2231" width="700"/>
 </p>
 
 </details>
