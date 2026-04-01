@@ -43,9 +43,11 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
 
 <!-- Estatísticas do GitHub (commits, streak e contributions graph) -->
 <p align="center">
+  
   <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eduardo2231&theme=aura&utcOffset=8" 
-    alt="Productive Time" 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=eduardo2231&theme=aura" 
+    alt="GitHub Stats" 
+    height="150"
   />
 
   <img 
