@@ -42,8 +42,11 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
 <br>
 
 <!-- Estatísticas do GitHub (commits, streak e contributions graph) -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default)
 <p align="center">
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default" 
+    alt="Repos per Language" 
+  />
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=eduardo2231&theme=tokyonight&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" 
     height="150" 
