@@ -113,10 +113,13 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
 <p align="center">
   <a href="https://www.linkedin.com/in/eduardo-bonometti-30572a34a">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-6c757d?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
     <img src="https://img.shields.io/github/last-commit/eduardo2231/Anomalous-Behavior-Detection-System?style=flat-square&logo=github" alt="Last Commit"/>
     <img src="https://img.shields.io/github/forks/eduardo2231/Anomalous-Behavior-Detection-System?style=flat-square&logo=github" alt="Forks"/>
     <img src="https://img.shields.io/github/stars/eduardo2231/Anomalous-Behavior-Detection-System?style=flat-square&logo=github" alt="Stars"/>
-  </a>
 </p>
 
 <!-- FOOTER -->
