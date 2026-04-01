@@ -44,8 +44,8 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
 <!-- Estatísticas do GitHub (commits, streak e contributions graph) -->
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=eduardo2231&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" 
-    height="150" 
+    src="https://github-readme-stats.vercel.app/api?username=eduardo2231&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="150"
   />
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=eduardo2231&theme=tokyonight&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" 
