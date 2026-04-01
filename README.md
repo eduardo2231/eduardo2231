@@ -76,7 +76,8 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
       <td align="center" style="background:#212529; color:white; padding:15px; border-radius:10px; width:250px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
         <b>Anomalous Behavior Detection</b>
         <p style="font-size:12px; color:#adb5bd;">
-          Detects unusual patterns in data to identify anomalies and potential risks. (In progress)
+          Detects unusual patterns in data to identify anomalies and potential risks. 
+          (In progress)
         </p>
         <a href="https://github.com/eduardo2231/Anomalous-Behavior-Detection-System" target="_blank">
           <img src="https://img.shields.io/badge/View_Project-495057?style=for-the-badge&logo=github&logoColor=white"/>
@@ -87,7 +88,8 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
   <td align="center" style="background:#1F618D; color:white; padding:15px; border-radius:10px; width:250px; box-shadow: 0 6px 8px rgba(0,0,0,0.4);">
     <b>Intelligent Recommendation</b>
     <p style="font-size:12px; color:#D6DBDF;">
-      Recommends personalized content based on user behavior and data patterns. (Not started)
+      Recommends personalized content based on user behavior and data patterns. 
+      (Not started)
     </p>
     <a href="https://github.com/eduardo2231/Intelligent-Recommendation-System" target="_blank">
       <img src="https://img.shields.io/badge/View_Project-1F618D?style=for-the-badge&logo=github&logoColor=white"/>
@@ -98,7 +100,8 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
   <td align="center" style="background:#117A65; color:white; padding:15px; border-radius:10px; width:250px; box-shadow: 0 6px 8px rgba(0,0,0,0.4);">
     <b>Performance Monitoring</b>
     <p style="font-size:12px; color:#D6DBDF;">
-      Tracks and analyzes system performance to optimize efficiency and reliability. (Not started)
+      Tracks and analyzes system performance to optimize efficiency and reliability. 
+      (Not started)
     </p>
     <a href="https://github.com/eduardo2231/Performance-Monitoring-System" target="_blank">
       <img src="https://img.shields.io/badge/View_Project-117A65?style=for-the-badge&logo=github&logoColor=white"/>
