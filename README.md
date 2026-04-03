@@ -98,7 +98,7 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
   
   <!-- Card 3: User Behavior Analysis -->
   <td align="center" style="background:#117A65; color:white; padding:15px; border-radius:10px; width:250px; box-shadow: 0 6px 8px rgba(0,0,0,0.4);">
-    <b>Performance Monitoring</b>
+    <b>User Behavior Analysis</b>
     <p style="font-size:12px; color:#D6DBDF;">
 Understand why users stop engaging or making purchases. 
       (Not started)
