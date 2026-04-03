@@ -103,7 +103,7 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
 Understand why users stop engaging or making purchases. 
       (Not started)
     </p>
-    <a href="https://github.com/eduardo2231/Performance-Monitoring-System" target="_blank">
+    <a href="https://github.com/eduardo2231/User-Behavior-Analysis" target="_blank">
       <img src="https://img.shields.io/badge/View_Project-117A65?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
   </td>
