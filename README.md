@@ -100,7 +100,7 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
   <td align="center" style="background:#117A65; color:white; padding:15px; border-radius:10px; width:250px; box-shadow: 0 6px 8px rgba(0,0,0,0.4);">
     <b>RiskCore</b>
     <p style="font-size:12px; color:#D6DBDF;">
-A complete system for decision in your business. 
+A complete system for decision-making in your company.
       (Not started)
     </p>
     <a href="https://github.com/eduardo2231/User-Behavior-Analysis" target="_blank">
