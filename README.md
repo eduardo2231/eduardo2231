@@ -86,9 +86,9 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
 
   <!-- Card 2: User Behavior Analysis -->
   <td align="center" style="background:#1F618D; color:white; padding:15px; border-radius:10px; width:250px; box-shadow: 0 6px 8px rgba(0,0,0,0.4);">
-    <b>Intelligent Recommendation</b>
+    <b>User Behavior Analysis</b>
     <p style="font-size:12px; color:#D6DBDF;">
-      Recommends personalized content based on user behavior and data patterns. 
+      Understand why users stop engaging or making purchases. 
       (Not started)
     </p>
     <a href="https://github.com/eduardo2231/Intelligent-Recommendation-System" target="_blank">
@@ -98,9 +98,9 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
   
   <!-- Card 3: RiskCore -->
   <td align="center" style="background:#117A65; color:white; padding:15px; border-radius:10px; width:250px; box-shadow: 0 6px 8px rgba(0,0,0,0.4);">
-    <b>User Behavior Analysis</b>
+    <b>RiskCore</b>
     <p style="font-size:12px; color:#D6DBDF;">
-Understand why users stop engaging or making purchases. 
+A complete system for decision in your business. 
       (Not started)
     </p>
     <a href="https://github.com/eduardo2231/User-Behavior-Analysis" target="_blank">
