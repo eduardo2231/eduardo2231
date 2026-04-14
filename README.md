@@ -89,7 +89,7 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
     <b>Digital Lending Risk Scorecard</b>
     <p style="font-size:12px; color:#D6DBDF;">
       Understand why users stop engaging or making purchases. 
-      (Not started)
+      (Future Work)
     </p>
     <a href="https://github.com/eduardo2231/Intelligent-Recommendation-System" target="_blank">
       <img src="https://img.shields.io/badge/View_Project-1F618D?style=for-the-badge&logo=github&logoColor=white"/>
@@ -101,7 +101,7 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
     <b>RiskCore</b>
     <p style="font-size:12px; color:#D6DBDF;">
 A complete system for decision-making in your company.
-      (Not started)
+      (Future Work)
     </p>
     <a href="https://github.com/eduardo2231/User-Behavior-Analysis" target="_blank">
       <img src="https://img.shields.io/badge/View_Project-117A65?style=for-the-badge&logo=github&logoColor=white"/>
