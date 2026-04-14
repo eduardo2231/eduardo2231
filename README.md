@@ -74,7 +74,7 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
     <tr>
       <!-- Card 1: Anomalous Behavior Detection -->
       <td align="center" style="background:#212529; color:white; padding:15px; border-radius:10px; width:250px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
-        <b>Anomalous Behavior Detection</b>
+        <b>Financial Fraud Detector</b>
         <p style="font-size:12px; color:#adb5bd;">
           Detects unusual patterns in data to identify anomalies and potential risks. 
           (In progress)
