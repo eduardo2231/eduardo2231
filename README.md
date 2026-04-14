@@ -74,7 +74,7 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
     <tr>
       <!-- Card 1: Anomalous Behavior Detection -->
       <td align="center" style="background:#212529; color:white; padding:15px; border-radius:10px; width:250px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
-        <b>Financial Fraud Detector</b>
+        <b>Transaction Anomaly Scorer</b>
         <p style="font-size:12px; color:#adb5bd;">
           Detects unusual patterns in data to identify anomalies and potential risks. 
           (In progress)
@@ -86,7 +86,7 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
 
   <!-- Card 2: User Behavior Analysis -->
   <td align="center" style="background:#1F618D; color:white; padding:15px; border-radius:10px; width:250px; box-shadow: 0 6px 8px rgba(0,0,0,0.4);">
-    <b>User Behavior Analysis</b>
+    <b>Digital Lending Risk Scorecard</b>
     <p style="font-size:12px; color:#D6DBDF;">
       Understand why users stop engaging or making purchases. 
       (Not started)
