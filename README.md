@@ -84,24 +84,22 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
         </a>
       </td>
 
-  <!-- Card 2: User Behavior Analysis -->
+  <!-- Card 2: In Progress -->
   <td align="center" style="background:#1F618D; color:white; padding:15px; border-radius:10px; width:250px; box-shadow: 0 6px 8px rgba(0,0,0,0.4);">
-    <b>Digital Lending Risk Scorecard</b>
+    <b>\...</b>
     <p style="font-size:12px; color:#D6DBDF;">
-      Understand why users stop engaging or making purchases. 
-      (Future Work)
+     In Progress...
     </p>
     <a href="https://github.com/eduardo2231/Intelligent-Recommendation-System" target="_blank">
       <img src="https://img.shields.io/badge/View_Project-1F618D?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
   </td>
   
-  <!-- Card 3: RiskCore -->
+  <!-- Card 3: In Progress -->
   <td align="center" style="background:#117A65; color:white; padding:15px; border-radius:10px; width:250px; box-shadow: 0 6px 8px rgba(0,0,0,0.4);">
-    <b>RiskCore</b>
+    <b>\...</b>
     <p style="font-size:12px; color:#D6DBDF;">
-A complete system for decision-making in your company.
-      (Future Work)
+In Progress...
     </p>
     <a href="https://github.com/eduardo2231/User-Behavior-Analysis" target="_blank">
       <img src="https://img.shields.io/badge/View_Project-117A65?style=for-the-badge&logo=github&logoColor=white"/>
