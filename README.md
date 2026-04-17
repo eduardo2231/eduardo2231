@@ -67,48 +67,46 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
 
 <!-- ======================= PROJECTS ======================= -->
 <details open>
-  <summary>🚀 Projects</summary>
-
+  <summary>🚀 Projects (click to toggle)</summary>
   <br>
 
-  <table>
+  <table align="center" cellspacing="15">
     <tr>
-      <td align="center">
-        <b>Transaction Anomaly Scorer</b><br>
-        <sub>Detects unusual patterns in data</sub><br><br>
-        <a href="https://github.com/eduardo2231/Anomalous-Behavior-Detection-System">
-          <img src="https://img.shields.io/badge/View-Project-black?style=for-the-badge&logo=github">
+      <!-- Card 1: Anomalous Behavior Detection -->
+      <td align="center" style="background:#212529; color:white; padding:15px; border-radius:10px; width:250px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
+        <b>Transaction Anomaly Scorer</b>
+        <p style="font-size:12px; color:#adb5bd;">
+          Detects unusual patterns in data to identify anomalies and potential risks. 
+          (In progress)
+        </p>
+        <a href="https://github.com/eduardo2231/Anomalous-Behavior-Detection-System" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-495057?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </td>
-    </tr>
-  </table>
-
-  <br>
-
   <details>
-    <summary>Future Projects</summary>
-
-    <table>
-      <tr>
-        <td align="center">
-          <b>Recommendation System</b><br>
-          <sub>In progress</sub><br><br>
-          <a href="https://github.com/eduardo2231/Intelligent-Recommendation-System">
-            <img src="https://img.shields.io/badge/View-Project-blue?style=for-the-badge&logo=github">
-          </a>
-        </td>
-
-        <td align="center">
-          <b>User Behavior Analysis</b><br>
-          <sub>In progress</sub><br><br>
-          <a href="https://github.com/eduardo2231/User-Behavior-Analysis">
-            <img src="https://img.shields.io/badge/View-Project-green?style=for-the-badge&logo=github">
-          </a>
-        </td>
-      </tr>
+    <summary>🚀 Future Projects (click to toggle)</summary>
+    <!-- Card 2: In Progress -->
+    <td align="center" style="background:#1F618D; color:white; padding:15px; border-radius:10px; width:250px; box-shadow: 0 6px 8px rgba(0,0,0,0.4);">
+      <b>\...</b>
+      <p style="font-size:12px; color:#D6DBDF;">
+       In Progress...
+      </p>
+      <a href="https://github.com/eduardo2231/Intelligent-Recommendation-System" target="_blank">
+        <img src="https://img.shields.io/badge/View_Project-1F618D?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    
+    <!-- Card 3: In Progress -->
+    <td align="center" style="background:#117A65; color:white; padding:15px; border-radius:10px; width:250px; box-shadow: 0 6px 8px rgba(0,0,0,0.4);">
+      <b>\...</b>
+      <p style="font-size:12px; color:#D6DBDF;">
+  In Progress...
+      </p>
+      <a href="https://github.com/eduardo2231/User-Behavior-Analysis" target="_blank">
+        <img src="https://img.shields.io/badge/View_Project-117A65?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
     </table>
-
-  </details>
 </details>
 
 <!-- ======================= CALL TO ACTION ======================= -->
