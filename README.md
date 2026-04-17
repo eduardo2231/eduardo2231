@@ -83,7 +83,7 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
           <img src="https://img.shields.io/badge/View_Project-495057?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </td>
-    <!-- Card 2: In Progress -->
+       <!-- Card 2: In Progress -->
     <td align="center" style="background:#1F618D; color:white; padding:15px; border-radius:10px; width:250px; box-shadow: 0 6px 8px rgba(0,0,0,0.4);">
       <b>\...</b>
       <p style="font-size:12px; color:#D6DBDF;">
