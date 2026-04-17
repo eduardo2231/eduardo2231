@@ -89,7 +89,7 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
       <p style="font-size:12px; color:#D6DBDF;">
        ...
       </p>
-      <a href="https://github.com/eduardo2231/Intelligent-Recommendation-System" target="_blank">
+      <a href="---------" target="_blank">
         <img src="https://img.shields.io/badge/View_Project-1F618D?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
@@ -99,7 +99,7 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
       <p style="font-size:12px; color:#D6DBDF;">
   ...
       </p>
-      <a href="https://github.com/eduardo2231/User-Behavior-Analysis" target="_blank">
+      <a href="---------" target="_blank">
         <img src="https://img.shields.io/badge/View_Project-117A65?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
