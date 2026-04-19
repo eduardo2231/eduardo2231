@@ -74,9 +74,9 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
     <tr>
       <!-- Card 1: Anomalous Behavior Detection -->
       <td align="center" style="background:#212529; color:white; padding:15px; border-radius:10px; width:250px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
-        <b>Transaction Anomaly Scorer</b>
+        <b>OpenRisk Lite</b>
         <p style="font-size:12px; color:#adb5bd;">
-          Detects unusual patterns in data to identify anomalies and potential risks. 
+          Open-source project to analyze financial contagion between countries using time series data. Focused on how market dependencies change during crisis periods, moving beyond simple correlation. 
           (In progress)
         </p>
         <a href="https://github.com/eduardo2231/Anomalous-Behavior-Detection-System" target="_blank">
