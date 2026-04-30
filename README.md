@@ -74,32 +74,31 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
     <tr>
       <!-- Card 1: Anomalous Behavior Detection -->
       <td align="center" style="background:#212529; color:white; padding:15px; border-radius:10px; width:250px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
-        <b>OpenRisk Lite</b>
+        <b>..................................</b>
         <p style="font-size:12px; color:#adb5bd;">
-          Open-source project to analyze financial contagion between countries using time series data. Focused on how market dependencies change during crisis periods, moving beyond simple correlation. 
-          (In progress)
+          ..................................
         </p>
-        <a href="https://github.com/eduardo2231/Anomalous-Behavior-Detection-System" target="_blank">
+        <a href="..................................">
           <img src="https://img.shields.io/badge/View_Project-495057?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </td>
        <!-- Card 2: In Progress -->
     <td align="center" style="background:#1F618D; color:white; padding:15px; border-radius:10px; width:250px; box-shadow: 0 6px 8px rgba(0,0,0,0.4);">
-      <b>Crono</b>
+      <b>..................................</b>
       <p style="font-size:12px; color:#D6DBDF;">
-       Chrono App is a simple stopwatch focused on study productivity. It combines session tracking, analytics, and a calendar to help users understand and improve their study habits.
+       ..................................
       </p>
-      <a href="https://github.com/eduardo2231/crono_app" target="_blank">
+      <a href=".................................." target="_blank">
         <img src="https://img.shields.io/badge/View_Project-1F618D?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
       <!-- Card 3: In Progress -->
   <td align="center" style="background:#117A65; color:white; padding:15px; border-radius:10px; width:250px; box-shadow: 0 6px 8px rgba(0,0,0,0.4);">
-      <b>\...</b>
+      <b>\..................................</b>
       <p style="font-size:12px; color:#D6DBDF;">
-  ...
+  ..................................
       </p>
-      <a href="---------" target="_blank">
+      <a href=".................................." target="_blank">
         <img src="https://img.shields.io/badge/View_Project-117A65?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
