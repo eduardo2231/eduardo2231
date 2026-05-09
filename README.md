@@ -19,7 +19,7 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
 
 <!-- Mostra os badges de linguagens e ferramentas, inicialmente escondido até clicar -->
 **Core:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white) ![Statistics](https://img.shields.io/badge/Statistics-8E44AD?style=for-the-badge)![Calculus](https://img.shields.io/badge/-Calculus-ff9900?style=for-the-badge&logo=latex&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white) ![Statistics](https://img.shields.io/badge/Statistics-8E44AD?style=for-the-badge)
 
 **Data Analysis:**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
