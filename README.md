@@ -8,6 +8,7 @@
 
 <!-- ======================= ABOUT ME ======================= -->
 ## 🎯 About Me
+[![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 I am a Python developer with experience in data analysis and SQL, aiming to grow professionally in Data Science and Machine Learning. 
 I focus on delivering data-driven solutions that enhance decision-making and drive innovation.
 
