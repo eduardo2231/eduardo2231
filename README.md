@@ -75,12 +75,13 @@ GitHubReadmeCreate — intelligent badge generator
 that turns tech names into ready-to-use badges  
 for GitHub READMEs and developer profiles.
 
+<br><br>
+
+<a href="https://github.com/eduardo2231/stackai">
+  <img src="https://img.shields.io/badge/Project-StackAI-ff69b4?style=for-the-badge" />
+</a>
+
 </div>
-  <p>
-    <a href="https://github.com/eduardo2231/stackai">
-      <img src="https://img.shields.io/badge/Project-StackAI-ff69b4?style=for-the-badge" />
-    </a>
-  </p>
 </details>
 
 <!-- ======================= CALL TO ACTION ======================= -->
