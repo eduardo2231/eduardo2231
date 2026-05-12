@@ -68,8 +68,7 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
 <!-- ======================= PROJECTS ======================= -->
 <details open>
   <summary>🚀 Projects (click to toggle)</summary>
-  StackAI — intelligent badge generator that turns tech names into ready-to-use badges for GitHub READMEs and developer profiles.
- 🔗 https://github.com/eduardo2231/stackai
+  GitHubReadmeCreate — intelligent badge generator that turns tech names into ready-to-use badges for GitHub READMEs and developer profiles. [![StackAI](https://img.shields.io/badge/StackAI-GitHub-black)](https://github.com/eduardo2231/stackai)
 </details>
 
 <!-- ======================= CALL TO ACTION ======================= -->
