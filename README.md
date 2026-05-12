@@ -69,22 +69,29 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
 <details open>
   <summary>🚀 Projects (click to toggle)</summary>
 
-  <pre>
-  ┌────────────────────────────────────────────┐
-  │ GitHubReadmeCreate — intelligent badge     │ 
-  │ generator that turns tech names into       │
-  │ ready-to-use badges for READMEs and        │
-  │ developer profiles.                        │
-  │                                            │
-  │ https://github.com/eduardo2231/stackai     │
-  └────────────────────────────────────────────┘
-  </pre>
-  <p>
-    <a href="https://github.com/eduardo2231/stackai">
-      <img src="https://img.shields.io/badge/Project-GitHubReadmeCreate-ff69b4?style=for-the-badge">
-    </a>
-  </p>
-
+  <div align="center">
+  <table>
+    <tr>
+      <td align="left" style="padding: 16px 24px;">
+        <h3>
+          <a href="https://github.com/eduardo2231/stackai">
+            StackAI
+          </a>
+        </h3>
+        <p>
+          GitHubReadmeCreate — intelligent badge<br>
+          generator that turns tech names into<br>
+          ready-to-use badges for READMEs and<br>
+          developer profiles.
+        </p>
+        <p>
+          <a href="https://github.com/eduardo2231/stackai">
+            <img src="https://img.shields.io/badge/Project-GitHubReadmeCreate-ff69b4?style=for-the-badge">
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 </details>
 
