@@ -78,13 +78,12 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
   │                                            │
   │ https://github.com/eduardo2231/stackai     │
   └────────────────────────────────────────────┘
-  </pre>
-
-  <p>
+    <p>
     <a href="https://github.com/eduardo2231/stackai">
       <img src="https://img.shields.io/badge/Project-StackAI-ff69b4?style=for-the-badge">
     </a>
   </p>
+  </pre>
 
 </div>
 </details>
