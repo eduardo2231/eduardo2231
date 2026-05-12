@@ -68,41 +68,6 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
 <!-- ======================= PROJECTS ======================= -->
 <details open>
   <summary>🚀 Projects (click to toggle)</summary>
-  <br>
-
-  <table align="center" cellspacing="15">
-    <tr>
-      <!-- Card 1: stackai -->
-      <td align="center" style="background:#212529; color:white; padding:15px; border-radius:10px; width:250px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
-        <b>stackai</b>
-        <p style="font-size:12px; color:#adb5bd;">
-          StackAI is an intelligent badge generator for developers that transforms the name of any technology into a ready-to-use badge for README files, portfolios, and professional profiles.
-        </p>
-        <a href="https://github.com/eduardo2231/stackai">
-          <img src="https://img.shields.io/badge/View_Project-495057?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </td>
-       <!-- Card 2: In Progress -->
-    <td align="center" style="background:#1F618D; color:white; padding:15px; border-radius:10px; width:250px; box-shadow: 0 6px 8px rgba(0,0,0,0.4);">
-      <b>..................................</b>
-      <p style="font-size:12px; color:#D6DBDF;">
-       ..................................
-      </p>
-      <a href=".................................." target="_blank">
-        <img src="https://img.shields.io/badge/View_Project-1F618D?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-      <!-- Card 3: In Progress -->
-  <td align="center" style="background:#117A65; color:white; padding:15px; border-radius:10px; width:250px; box-shadow: 0 6px 8px rgba(0,0,0,0.4);">
-      <b>..................................</b>
-      <p style="font-size:12px; color:#D6DBDF;">
-  ..................................
-      </p>
-      <a href=".................................." target="_blank">
-        <img src="https://img.shields.io/badge/View_Project-117A65?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    </table>
 </details>
 
 <!-- ======================= CALL TO ACTION ======================= -->
