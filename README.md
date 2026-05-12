@@ -69,9 +69,11 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
 <details open>
   <summary>🚀 Projects (click to toggle)</summary>
   
-  GitHubReadmeCreate — intelligent badge generator
-  that turns tech names into ready-to-use badges
+ <p>
+  GitHubReadmeCreate — intelligent badge generator<br>
+  that turns tech names into ready-to-use badges<br>
   for GitHub READMEs and developer profiles.
+</p>
   <p>
     <a href="https://github.com/eduardo2231/stackai">
       <img src="https://img.shields.io/badge/Project-StackAI-ff69b4?style=for-the-badge" />
@@ -92,12 +94,6 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
   <a href="https://www.linkedin.com/in/eduardo-bonometti-30572a34a">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-6c757d?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-    <img src="https://img.shields.io/github/last-commit/eduardo2231/Anomalous-Behavior-Detection-System?style=flat-square&logo=github" alt="Last Commit"/>
-    <img src="https://img.shields.io/github/forks/eduardo2231/Anomalous-Behavior-Detection-System?style=flat-square&logo=github" alt="Forks"/>
-    <img src="https://img.shields.io/github/stars/eduardo2231/Anomalous-Behavior-Detection-System?style=flat-square&logo=github" alt="Stars"/>
 </p>
 
 <!-- FOOTER -->
