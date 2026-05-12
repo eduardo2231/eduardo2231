@@ -73,11 +73,6 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
   <table>
     <tr>
       <td align="left" style="padding: 16px 24px;">
-        <h3>
-          <a href="https://github.com/eduardo2231/stackai">
-            StackAI
-          </a>
-        </h3>
         <p>
           GitHubReadmeCreate — intelligent badge<br>
           generator that turns tech names into<br>
