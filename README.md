@@ -88,6 +88,108 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
     </tr>
   </table>
 </div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="left" style="padding: 16px 24px;">
+        <p>
+          GitHubReadmeCreate — intelligent badge<br>
+          generator that turns tech names into<br>
+          ready-to-use badges for READMEs and<br>
+          developer profiles.
+        </p>
+        <p>
+          <a href="https://github.com/eduardo2231/stackai">
+            <img src="https://img.shields.io/badge/Project-GitHubReadmeCreate-ff69b4?style=for-the-badge">
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="left" style="padding: 16px 24px;">
+        <p>
+          GitHubReadmeCreate — intelligent badge<br>
+          generator that turns tech names into<br>
+          ready-to-use badges for READMEs and<br>
+          developer profiles.
+        </p>
+        <p>
+          <a href="https://github.com/eduardo2231/stackai">
+            <img src="https://img.shields.io/badge/Project-GitHubReadmeCreate-ff69b4?style=for-the-badge">
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="left" style="padding: 16px 24px;">
+        <p>
+          GitHubReadmeCreate — intelligent badge<br>
+          generator that turns tech names into<br>
+          ready-to-use badges for READMEs and<br>
+          developer profiles.
+        </p>
+        <p>
+          <a href="https://github.com/eduardo2231/stackai">
+            <img src="https://img.shields.io/badge/Project-GitHubReadmeCreate-ff69b4?style=for-the-badge">
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="left" style="padding: 16px 24px;">
+        <p>
+          GitHubReadmeCreate — intelligent badge<br>
+          generator that turns tech names into<br>
+          ready-to-use badges for READMEs and<br>
+          developer profiles.
+        </p>
+        <p>
+          <a href="https://github.com/eduardo2231/stackai">
+            <img src="https://img.shields.io/badge/Project-GitHubReadmeCreate-ff69b4?style=for-the-badge">
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="left" style="padding: 16px 24px;">
+        <p>
+          GitHubReadmeCreate — intelligent badge<br>
+          generator that turns tech names into<br>
+          ready-to-use badges for READMEs and<br>
+          developer profiles.
+        </p>
+        <p>
+          <a href="https://github.com/eduardo2231/stackai">
+            <img src="https://img.shields.io/badge/Project-GitHubReadmeCreate-ff69b4?style=for-the-badge">
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 </details>
 
 <!-- ======================= CALL TO ACTION ======================= -->
