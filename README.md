@@ -38,6 +38,8 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
 <!-- ======================= GITHUB ACTIVITY ======================= -->
 <details>
   <summary>🧰 GitHub Activity (click to toggle)</summary>
+  GitHubReadmeCreate — intelligent badge generator that turns tech names into ready-to-use badges for GitHub READMEs and developer profiles.
+ 🔗https://github.com/eduardo2231/stackai
 
 <br>
 
