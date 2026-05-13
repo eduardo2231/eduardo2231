@@ -61,14 +61,6 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
     alt="GitHub Activity Graph"
     width="100%" 
   />
-</p>
-<p align="center">
-<a href="https://github.com/eduardo2231"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardo2231&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
-</p>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=eduardo2231&theme=tokyonight&hide_border=true&bg_color=0d1117" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardo2231&theme=tokyonight&hide_border=true&bg_color=0d1117" width="49%" />
-</p>
 
 </details>
 
