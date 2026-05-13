@@ -88,7 +88,8 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
         <p>
           iT Salary Analysis Exploratory data analysis<br>
           of salaries across different IT roles,<br>
-          experience levels, and regions.<br>
+          experience levels, and regions.
+           <br>
         </p>
         <p>
           <a href="https://github.com/eduardo2231/job_salary">
