@@ -80,7 +80,7 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
         </p>
         <p>
           <a href="https://github.com/eduardo2231/gitHubGenerate">
-            <img src="https://img.shields.io/badge/Project-GitHubReadmeCreate-ff69b4?style=for-the-badge">
+            <img src="https://img.shields.io/badge/Project-GitHubReadmeCreate-FF8C00?style=for-the-badge">
           </a>
         </p>
       </td>
