@@ -78,7 +78,7 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
           </td>
         <td align="left" style="padding: 16px 24px;">
           <p>
-            a 
+            Projects Involving REST APIs 
           </p>
         </td>
         <td align="left" style="padding: 16px 24px;">
@@ -109,7 +109,7 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
           </td>
         <td align="left" style="padding: 16px 24px;">
           <p>
-            a 
+            Projects Involving Data Analysis 
           </p>
         </td>
         <td align="left" style="padding: 16px 24px;">
