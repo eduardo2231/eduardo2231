@@ -73,17 +73,17 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
     <tr> <!-- t1 -->
         <td align="left" style="padding: 16px 24px;">
             <p>
-               
+                               
             </p>
           </td>
         <td align="left" style="padding: 16px 24px;">
           <p>
-            Projects Involving REST APIs 
+              Projects Involving REST APIs 
           </p>
         </td>
         <td align="left" style="padding: 16px 24px;">
             <p>
-               
+                                     
             </p>
           </td>
       </tr>
