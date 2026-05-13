@@ -84,6 +84,18 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
           </a>
         </p>
       </td>
+      <td align="left" style="padding: 16px 24px;">
+        <p>
+          iT Salary Analysis Exploratory data analysis<br>
+          of salaries across different IT roles,<br>
+          experience levels, and regions.<br>
+        </p>
+        <p>
+          <a href="https://github.com/eduardo2231/job_salary">
+            <img src="https://img.shields.io/badge/Project-JobSalary-FF8C00?style=for-the-badge">
+          </a>
+        </p>
+      </td>
     </tr>
   </table>
 </div>
