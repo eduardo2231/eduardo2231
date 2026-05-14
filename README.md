@@ -70,6 +70,8 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
 
 <div align="center">
   <table>
+    <p>
+    </p>
     <tr> <!-- t1 -->
         <td align="left" style="padding: 16px 24px;">
             <p>
