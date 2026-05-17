@@ -65,6 +65,50 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
 </details>
 
 <!-- ======================= PROJECTS ======================= -->
+# 📊 Portfolio Projects
+
+---
+
+# 📊 Job Salary IT Analysis
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E4A62?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+Salary analysis project exploring how experience, education, skills, industry, and location impact salaries in tech using large-scale data analysis.
+
+🔗 Repo: https://github.com/eduardo2231/job_salary
+
+---
+
+# 🧠 GitHubGenerate
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-AI-black?style=for-the-badge)
+![Pillow](https://img.shields.io/badge/Pillow-FFD43B?style=for-the-badge)
+![Requests](https://img.shields.io/badge/Requests-20232A?style=for-the-badge)
+
+AI-powered tool that generates GitHub-style badges from technology names using LLMs and Streamlit interface.
+
+🔗 Repo: https://github.com/eduardo2231/gitHubGenerate
+
+---
+
+# 🎓 AI Study
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-LLM-black?style=for-the-badge)
+![Whisper](https://img.shields.io/badge/Whisper-AI-000000?style=for-the-badge)
+![yt-dlp](https://img.shields.io/badge/yt--dlp-media-red?style=for-the-badge)
+
+AI system that converts text, URLs, and media into flashcards using LLMs, transcription, and automation.
+
+🔗 Repo: https://github.com/eduardo2231/ai-study
 
 <!-- ======================= CALL TO ACTION ======================= -->
 <p align="center">
