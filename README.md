@@ -81,7 +81,7 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
           </td>
         <td align="left" style="padding: 16px 24px;">
           <p>
-              Projects Involving REST APIs 
+              Projects Involving AI/APIs 
           </p>
         </td>
         <td align="left" style="padding: 16px 24px;">
@@ -92,6 +92,17 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
       </tr>
     <tr> <!-- t1 -->
       <td align="left" style="padding: 16px 24px;">
+        <p>
+          GitHubReadmeCreate — intelligent badge<br>
+          generator that turns tech names into<br>
+          ready-to-use badges for READMEs and<br>
+          developer profiles.
+        </p>
+        <p>
+          <a href="https://github.com/eduardo2231/gitHubGenerate">
+            <img src="https://img.shields.io/badge/Project-GitHubReadmeCreate-FF8C00?style=for-the-badge">
+          </a>
+        </p>
         <p>
           GitHubReadmeCreate — intelligent badge<br>
           generator that turns tech names into<br>
