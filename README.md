@@ -114,6 +114,7 @@ I focus on delivering data-driven solutions that enhance decision-making and dri
             <img src="https://img.shields.io/badge/Project-GitHubReadmeCreate-FF8C00?style=for-the-badge">
           </a>
         </p>
+      </td>
       </tr> 
      <tr> <!-- t2 -->
         <td align="left" style="padding: 16px 24px;">
