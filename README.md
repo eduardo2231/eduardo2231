@@ -126,6 +126,10 @@ AI system that converts text, URLs, and media into flashcards using LLMs, transc
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eduardo2231&color=blueviolet&style=for-the-badge" alt="profile views"/>
+</p>
+
 <!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gray&height=100&section=footer" width="100%" />
