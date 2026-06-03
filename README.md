@@ -79,8 +79,6 @@ A simple, mobile-friendly probability spin wheel built with HTML5 Canvas.
 
 ---
 
----
-
 # 📊 Job Salary IT Analysis
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
