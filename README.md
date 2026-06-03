@@ -67,6 +67,17 @@ I am also developing skills in machine learning, predictive modeling, classifica
 
 <!-- ======================= PROJECTS ======================= -->
 # 📊 Portfolio Projects
+---
+
+# 🧠 wheel of probability
+
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
+
+A simple, mobile-friendly probability spin wheel built with HTML5 Canvas.
+
+🔗 Repo: https://github.com/eduardo2231/wheel-of-probability
+
+---
 
 ---
 
