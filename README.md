@@ -11,7 +11,7 @@
 I am a student passionate about using data to solve real world problems and support smarter decisions. With hands on experience in Python and Statistics, I have been building a strong foundation through projects that turn raw data into clear and actionable insights. My work combines data cleaning, exploratory data analysis, data visualization, statistics, dashboards, business analysis, and storytelling to help people understand what the data is saying and why it matters.
 
 I am also developing skills in machine learning, predictive modeling, classification, regression, clustering, feature engineering, model evaluation, supervised learning, unsupervised learning, data preprocessing, ETL, data wrangling, querying databases, and automation. 
-
+---
 <!-- ======================= TECH STACK ======================= -->
 <details>
   <summary>🛠️ Tech Stack & Tools (click to toggle)</summary>
